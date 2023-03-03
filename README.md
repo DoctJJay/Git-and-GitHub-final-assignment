@@ -20,8 +20,8 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
+| 1 |  Project_one    | my_first_proj              | https://github.com/DoctJJay/Project_one.git       |
+| 2 |                 |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
@@ -71,3 +71,4 @@ tests/test_readme_table.py::test_contains_table PASSED                          
 ================================================== 3 passed in 0.000s ==================================================
 
 ```
+my_first_project
